@@ -1,0 +1,61 @@
+{
+  "title": "Key Focus Areas",
+  "file_complaint": "file complaint",
+  "items": [
+    {
+      "title": "House",
+      "description": "Providing a 3BHK house to every family in India.",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #1A2980, #26D0CE)"
+    },
+    {
+      "title": "Finance",
+      "description": "Making every house in India loan-free (0 finance).",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #7F00FF, #E100FF)"
+    },
+    {
+      "title": "Farmers",
+      "description": "Supporting farmers in every stage, from planting to harvesting.",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #009EFD, #2AF598)"
+    },
+    {
+      "title": "Pension",
+      "description": "Implementing the old pension scheme for government, contract, outsourcing, and honorarium workers upon retirement.",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "Private Company",
+      "description": "Providing proper salary and pension schemes for employees in recognized private organizations.",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #642B73, #C6426E)"
+    },
+    {
+      "title": "Students",
+      "description": "Education creates many jobs and employment opportunities for students.",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #1D2B64, #F8CDDA)"
+    },
+    {
+      "title": "Food",
+      "description": "Providing nutritious food to the general public, mothers, and children.",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #FF5F6D, #FFC371)"
+    },
+    {
+      "title": "Global Needs",
+      "description": "Addressing global needs and India's role in fulfilling them.",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #12C2E9, #F64F59)"
+    },
+    {
+      "title": "Govt Jobs & Industry",
+      "description": "One government job per household and small-scale industry support.",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #FF9A9E, #FAD0C4)"
+    }
+  ],
+  "button": "Learn More"
+}

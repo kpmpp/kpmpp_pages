@@ -1,0 +1,47 @@
+{
+   
+   "title":"Our Organization",
+   "button":"learn more"
+   ,
+   "back":"back",
+
+   
+    "organizationRoles": {
+      "President": {
+        "title": "President",
+        "description": "The President oversees the strategic direction of the party and is responsible for major decisions.",
+        "gradient": "linear-gradient(135deg, #ff7e5f, #feb47b)",
+        "detailedDescription": {
+          "heading": "The President shall be the Chief Executive of the Association",
+          "points": [
+            "Exercises overall control over the association’s affairs.",
+            "Presides over all key meetings and decision-making bodies.",
+            "Ensures administrative and legislative measures benefit members.",
+            "Operates bank accounts jointly with the General Secretary.",
+            "Manages urgent expenditures with later approval."
+          ]
+        }
+      },
+      "GeneralSecretary": {
+        "title": "General Secretary",
+        "description": "The General Secretary handles the internal functioning and administration of the party.",
+        "gradient": "linear-gradient(135deg, #4facfe, #00f2fe)"
+      },
+      "Treasurer": {
+        "title": "Treasurer",
+        "description": "The Treasurer is responsible for the financial management of the party.",
+        "gradient": "linear-gradient(135deg, #43e97b, #38f9d7)"
+      },
+      "VicePresident": {
+        "title": "Vice President",
+        "description": "The Vice President assists the President and steps in their absence.",
+        "gradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      "JointSecretary": {
+        "title": "Joint Secretary",
+        "description": "The Joint Secretary assists the General Secretary in their duties and acts in their absence.",
+        "gradient": "linear-gradient(135deg, #ffcc00, #ff6699)"
+      }
+    }
+  }
+  

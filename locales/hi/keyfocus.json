@@ -1,0 +1,61 @@
+{
+  "title": "मुख्य फोकस क्षेत्र",
+  "file_complaint": "शिकायत दर्ज करें",
+  "items": [
+    {
+      "title": "घर",
+      "description": "भारत के हर परिवार को 3BHK का घर उपलब्ध कराना।",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #1A2980, #26D0CE)"
+    },
+    {
+      "title": "वित्त",
+      "description": "भारत के हर घर को ऋण-मुक्त बनाना (0 फाइनेंस)।",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #7F00FF, #E100FF)"
+    },
+    {
+      "title": "किसान",
+      "description": "किसानों को बुआई से लेकर कटाई तक हर चरण में सहायता प्रदान करना।",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #009EFD, #2AF598)"
+    },
+    {
+      "title": "पेंशन",
+      "description": "सरकारी, अनुबंध, आउटसोर्सिंग और मानदेय कर्मचारियों के लिए पुरानी पेंशन योजना लागू करना।",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "निजी कंपनी",
+      "description": "मान्यता प्राप्त निजी संस्थानों में कर्मचारियों को उचित वेतन और पेंशन योजनाएं प्रदान करना।",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #642B73, #C6426E)"
+    },
+    {
+      "title": "विद्यार्थी",
+      "description": "शिक्षा के माध्यम से विद्यार्थियों के लिए रोजगार और नौकरी के अवसर बनाना।",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #1D2B64, #F8CDDA)"
+    },
+    {
+      "title": "खाद्य",
+      "description": "जनता, माताओं और बच्चों को पौष्टिक भोजन उपलब्ध कराना।",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #FF5F6D, #FFC371)"
+    },
+    {
+      "title": "वैश्विक आवश्यकताएँ",
+      "description": "वैश्विक आवश्यकताओं और उन्हें पूरा करने में भारत की भूमिका।",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #12C2E9, #F64F59)"
+    },
+    {
+      "title": "सरकारी नौकरी और उद्योग",
+      "description": "प्रत्येक परिवार को एक सरकारी नौकरी और लघु उद्योगों को सहयोग।",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #FF9A9E, #FAD0C4)"
+    }
+  ],
+  "button": "और जानें"
+}

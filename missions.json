@@ -1,0 +1,410 @@
+{
+  "Health Missions": {
+    "NHM (National Health Mission)": [
+      "Medical Officers",
+      "Consultants",
+      "Paramedics",
+      "Data Collectors",
+      "Survey Coordinators",
+      "others"
+    ],
+    "NRHM (National Rural Health Mission)": [
+      "Rural Healthcare Workers",
+      "Community Health Officers",
+      "ANMs",
+      "ASHA Workers",
+      "Medical Officers",
+      "others"
+    ],
+    "NUHM (National Urban Health Mission)": [
+      "Urban Health Centers Staff",
+      "Medical Officers",
+      "Public Health Managers",
+      "Community Health Workers",
+      "others"
+    ],
+    "ABDM (Ayushman Bharat Digital Mission)": [
+      "Healthcare IT Professionals",
+      "Data Analysts",
+      "Health Record Managers"
+    ],
+    "PMNDP (Pradhan Mantri National Dialysis Programme)": [
+      "Nephrologists",
+      "Dialysis Technicians",
+      "Medical Officers"
+    ],
+    "NSCAEM (National Sickle Cell Anemia Elimination Mission)": [
+      "Genetic Counselors",
+      "Hematologists",
+      "Field Health Workers"
+    ],
+    "PMTBMBA (Pradhan Mantri TB Mukt Bharat Abhiyaan)": [
+      "TB Specialists",
+      "Pulmonologists",
+      "Community Health Workers"
+    ],
+    "NLEP (National Leprosy Eradication Programme)": [
+      "Leprosy Specialists",
+      "Community Outreach Workers",
+      "Medical Officers"
+    ],
+    "OHM (One Health Mission)": [
+      "Epidemiologists",
+      "Veterinary Doctors",
+      "Public Health Experts"
+    ],
+    "IDSP (Integrated Disease Surveillance Programme)": [
+      "Epidemiologists",
+      "Public Health Analysts",
+      "Disease Surveillance Officers"
+    ],
+    "NPCDCS (National Programme for Prevention & Control of Cancer, Diabetes, CVD & Stroke)": [
+      "Oncologists",
+      "Cardiologists",
+      "Diabetologists"
+    ],
+    "NACP (National AIDS Control Programme)": [
+      "HIV Counselors",
+      "Virologists",
+      "Infectious Disease Specialists"
+    ],
+    "NMHP (National Mental Health Programme)": [
+      "Psychiatrists",
+      "Clinical Psychologists",
+      "Mental Health Nurses"
+    ],
+    "JSY (Janani Suraksha Yojana)": [
+      "Gynecologists",
+      "Obstetricians",
+      "Midwives"
+    ],
+    "RKSK (Rashtriya Kishor Swasthya Karyakram)": [
+      "Adolescent Health Counselors",
+      "Nutritionists",
+      "Community Health Workers"
+    ],
+    "NVHCP (National Viral Hepatitis Control Program)": [
+      "Hepatologists",
+      "Gastroenterologists",
+      "Medical Officers"
+    ],
+    "CGHS (Central Government Health Scheme)": [
+      "Government Hospital Staff",
+      "Healthcare Administrators",
+      "Medical Officers"
+    ],
+    "PM-JAY (Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana)": [
+      "Insurance Claim Officers",
+      "Healthcare Providers",
+      "Medical Officers"
+    ]
+  }
+
+  ,"Agriculture & Rural Development Schemes": {
+    "PMFBY (Pradhan Mantri Fasal Bima Yojana)": [
+      "Crop Insurance Officers",
+      "Field Surveyors",
+      "Agricultural Risk Assessors",
+      "Claim Verification Officers"
+    ],
+    "RKVY (Rashtriya Krishi Vikas Yojana)": [
+      "Agricultural Scientists",
+      "Farm Extension Officers",
+      "Soil Analysts",
+      "Irrigation Experts"
+    ],
+    "PMKSY (Pradhan Mantri Krishi Sinchayee Yojana)": [
+      "Irrigation Engineers",
+      "Water Conservation Officers",
+      "Drip Irrigation Specialists",
+      "Agro-Hydrologists"
+    ],
+    "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)": [
+      "Rural Development Officers",
+      "Employment Coordinators",
+      "Field Supervisors",
+      "Labor Welfare Officers"
+    ],
+    "Soil Health Card Scheme": [
+      "Soil Testing Experts",
+      "Agriculture Lab Technicians",
+      "Farm Consultants",
+      "Soil Fertility Specialists"
+    ]
+  },
+
+  "Financial Inclusion Schemes": {
+    "PMJDY (Pradhan Mantri Jan Dhan Yojana)": [
+      "Banking Correspondents",
+      "Financial Advisors",
+      "Microfinance Officers",
+      "Customer Service Executives"
+    ],
+    "PMMY (Pradhan Mantri Mudra Yojana)": [
+      "Loan Officers",
+      "Microfinance Consultants",
+      "Business Development Executives",
+      "Small Business Support Officers"
+    ],
+    "APY (Atal Pension Yojana)": [
+      "Pension Scheme Advisors",
+      "Insurance Officers",
+      "Financial Literacy Trainers",
+      "Customer Support Executives"
+    ],
+    "PMVVY (Pradhan Mantri Vaya Vandana Yojana)": [
+      "Senior Citizen Welfare Officers",
+      "Retirement Planners",
+      "Insurance Agents",
+      "Pension Fund Managers"
+    ],
+    "JAM Trinity (Jan Dhan-Aadhaar-Mobile Integration)": [
+      "Digital Financial Inclusion Officers",
+      "Aadhaar Enrollment Agents",
+      "e-KYC Specialists",
+      "Banking & Digital Payment Experts"
+    ],
+    "Stand-Up India Scheme": [
+      "Entrepreneurship Development Officers",
+      "Credit Facilitation Managers",
+      "Women & SC/ST Business Loan Officers",
+      "Small Enterprise Growth Advisors"
+    ],
+    "PSB Loans in 59 Minutes": [
+      "Loan Processing Officers",
+      "Credit Risk Analysts",
+      "Digital Banking Specialists",
+      "Business Loan Advisors"
+    ]
+  },
+
+  "Housing Schemes": {
+    "PMAY (Pradhan Mantri Awas Yojana)": [
+      "Urban Housing Planners",
+      "Affordable Housing Project Officers",
+      "Loan Assistance Officers",
+      "Construction Supervisors"
+    ],
+    "PMAY-G (Pradhan Mantri Awas Yojana - Gramin)": [
+      "Rural Housing Development Officers",
+      "Panchayat Coordinators",
+      "Beneficiary Support Executives",
+      "Construction Inspectors"
+    ],
+    "CLSS (Credit Linked Subsidy Scheme)": [
+      "Home Loan Advisors",
+      "Subsidy Processing Officers",
+      "Financial Inclusion Experts",
+      "Housing Loan Underwriters"
+    ],
+    "AHIDF (Affordable Housing in Partnership)": [
+      "Public-Private Partnership Coordinators",
+      "Real Estate Development Officers",
+      "Housing Finance Managers",
+      "Infrastructure Planners"
+    ],
+    "NTR Housing Scheme (State-Specific)": [
+      "State Housing Development Officers",
+      "Construction & Building Engineers",
+      "Low-Income Housing Facilitators",
+      "Community Welfare Coordinators"
+    ],
+    "Rajiv Awas Yojana (RAY)": [
+      "Slum Redevelopment Officers",
+      "Urban Planning Experts",
+      "Municipal Project Managers",
+      "Housing Welfare Executives"
+    ]
+  },
+
+  "Education Schemes": {
+    "SSA (Sarva Shiksha Abhiyan)": [
+      "Primary School Teachers",
+      "Education Coordinators",
+      "Curriculum Developers",
+      "Mid-Day Meal Supervisors"
+    ],
+    "RMSA (Rashtriya Madhyamik Shiksha Abhiyan)": [
+      "Secondary School Teachers",
+      "School Infrastructure Planners",
+      "Vocational Training Experts",
+      "Digital Education Facilitators"
+    ],
+    "NEP (National Education Policy 2020)": [
+      "Policy Implementation Officers",
+      "Higher Education Reform Experts",
+      "E-Learning Specialists",
+      "School Administrators"
+    ],
+    "NSP (National Scholarship Portal)": [
+      "Scholarship Verification Officers",
+      "Financial Aid Counselors",
+      "Student Support Executives",
+      "Grant Management Specialists"
+    ],
+    "SWAYAM (Study Webs of Active Learning for Young Aspiring Minds)": [
+      "Online Course Instructors",
+      "EdTech Developers",
+      "Open Learning Administrators",
+      "Content Creators"
+    ],
+    "PM-USP (Prime Minister’s Scholarship Scheme)": [
+      "Higher Education Counselors",
+      "Merit-Based Scholarship Reviewers",
+      "Financial Inclusion Experts",
+      "University Liaison Officers"
+    ],
+    "Beti Bachao Beti Padhao (BBBP)": [
+      "Women Education Promoters",
+      "Girl Child Welfare Officers",
+      "Social Awareness Campaign Managers",
+      "School Enrollment Coordinators"
+    ],
+    "PM SHRI Schools (Pradhan Mantri Schools for Rising India)": [
+      "Smart Classroom Developers",
+      "STEM Education Specialists",
+      "Innovative Learning Experts",
+      "Digital Infrastructure Planners"
+    ]
+  },
+
+  "Women & Child Development Schemes": {
+    "ICDS (Integrated Child Development Services)": [
+      "Anganwadi Workers",
+      "Child Nutritionists",
+      "Health Educators",
+      "Community Outreach Workers"
+    ],
+    "PMMVY (Pradhan Mantri Matru Vandana Yojana)": [
+      "Maternity Benefit Counselors",
+      "Healthcare Coordinators",
+      "Financial Aid Officers",
+      "Social Welfare Inspectors"
+    ],
+    "Beti Bachao Beti Padhao (BBBP)": [
+      "Women Empowerment Advocates",
+      "Girl Child Welfare Officers",
+      "Awareness Campaign Managers",
+      "School Enrollment Coordinators"
+    ],
+    "POSHAN Abhiyaan (National Nutrition Mission)": [
+      "Dietitians",
+      "Public Health Experts",
+      "Food Safety Officers",
+      "Social Workers"
+    ],
+    "One Stop Centre Scheme (OSC)": [
+      "Women Protection Officers",
+      "Legal Counselors",
+      "Trauma Support Specialists",
+      "Crisis Intervention Teams"
+    ],
+    "Sukanya Samriddhi Yojana (SSY)": [
+      "Financial Advisors",
+      "Banking Professionals",
+      "Investment Consultants",
+      "Women Welfare Officers"
+    ],
+    "Mahila Shakti Kendra (MSK)": [
+      "Women Empowerment Coordinators",
+      "Self-Help Group Trainers",
+      "Employment Counselors",
+      "Rural Development Officers"
+    ],
+    "Working Women Hostel Scheme": [
+      "Hostel Management Staff",
+      "Security Personnel",
+      "Counseling Experts",
+      "Accommodation Coordinators"
+    ]
+  },
+  "Infrastructure Schemes": {
+    "PMGSY (Pradhan Mantri Gram Sadak Yojana)": [
+      "Civil Engineers",
+      "Rural Road Developers",
+      "Infrastructure Planners",
+      "Survey Officers"
+    ],
+    "Smart Cities Mission": [
+      "Urban Planners",
+      "Smart Technology Developers",
+      "Sustainability Experts",
+      "Public Transport Managers"
+    ],
+    "AMRUT (Atal Mission for Rejuvenation and Urban Transformation)": [
+      "Urban Infrastructure Experts",
+      "Water Supply Engineers",
+      "Sanitation Officers",
+      "City Planners"
+    ],
+    "Bharatmala Pariyojana": [
+      "Highway Engineers",
+      "Logistics Experts",
+      "Transport Economists",
+      "Public-Private Partnership Advisors"
+    ],
+    "Jal Jeevan Mission": [
+      "Water Resource Engineers",
+      "Sanitation Specialists",
+      "Public Health Experts",
+      "Community Water Project Managers"
+    ],
+    "Sagar Mala Project": [
+      "Port Development Officers",
+      "Marine Engineers",
+      "Coastal Transport Specialists",
+      "Trade and Logistics Experts"
+    ]
+  },
+  
+  "Transport Schemes": {
+    "PM Gati Shakti (National Master Plan for Multi-modal Connectivity)": [
+      "Infrastructure Integration Experts",
+      "Transport Economists",
+      "Logistics Analysts",
+      "Supply Chain Managers"
+    ],
+    "Faster Adoption and Manufacturing of Electric Vehicles (FAME)": [
+      "EV Engineers",
+      "Battery Technologists",
+      "Sustainability Analysts",
+      "Automotive Industry Experts"
+    ],
+    "Regional Connectivity Scheme - UDAN": [
+      "Aviation Planners",
+      "Air Traffic Managers",
+      "Airport Operations Officers",
+      "Regional Transport Coordinators"
+    ],
+    "Dedicated Freight Corridor (DFC)": [
+      "Railway Engineers",
+      "Freight Management Officers",
+      "Infrastructure Developers",
+      "Supply Chain Coordinators"
+    ],
+    "Metro Rail Projects": [
+      "Metro Rail Engineers",
+      "Urban Transport Planners",
+      "Infrastructure Safety Experts",
+      "Traffic Management Officers"
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

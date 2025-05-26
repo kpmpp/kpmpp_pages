@@ -1,0 +1,19 @@
+{
+  "media": {
+    "title": "KPMPP میڈیا",
+    "categories": {
+      "news": "اخبارات",
+      "events": "آنے والے ایونٹس",
+      "videos": "میڈیا ویڈیوز"
+    },
+    "date": "تاریخ"
+  },
+  "buttons": {
+    "readMore": "مزید پڑھیں",
+    "viewDetails": "تفصیلات دیکھیں",
+    "watchVideo": "ویڈیو دیکھیں",
+    "gridView": "گرڈ ویو",
+    "listView": "فہرست ویو",
+    "back": "واپس جائیں"
+  }
+}

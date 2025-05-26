@@ -1,0 +1,83 @@
+{
+  "Healthcare & Medicine": [
+    "Doctor / Surgeon",
+    "Nurse / Paramedic",
+    "Pharmacist",
+    "Medical Lab Technician",
+    "Physiotherapist",
+    "Radiologist"
+  ],
+  
+  "Engineering & Core Industries": [
+    "Civil Engineer",
+    "Mechanical Engineer",
+    "Electrical Engineer",
+    "Chemical Engineer",
+    "Aerospace Engineer",
+    "Petroleum Engineer"
+  ],
+  "Finance & Business": [
+    "Chartered Accountant (CA)",
+    "Investment Banker",
+    "Financial Analyst",
+    "Stock Trader",
+    "Business Consultant",
+    "Marketing Manager"
+  ],
+  "IT & Software": [
+    "Software Engineer",
+    "Data Scientist",
+    "UI/UX Designer",
+    "Cloud Engineer",
+    "Cybersecurity Analyst",
+    "AI/ML Engineer"
+  ],
+  "Law & Governance": [
+    "Lawyer",
+    "Judge",
+    "Legal Consultant",
+    "Police Officer",
+    "Forensic Expert"
+  ],
+  "Media & Entertainment": [
+    "Journalist / News Anchor",
+    "Film Director / Producer",
+    "Actor / Model",
+    "Photographer / Videographer",
+    "Graphic Designer"
+  ],
+  "Education & Research": [
+    "Teacher",
+    "Professor",
+    "Research Scientist",
+    "Librarian",
+    "Educational Consultant"
+  ],
+  "Government & Public Services": [
+    "IAS Officer",
+    "IPS Officer",
+    "IFS Officer",
+    "Bank Clerk",
+    "PO",
+    "Railway Employee",
+    "Post Office Staff"
+  ],
+  "Sales & Marketing": [
+    "Sales Executive",
+    "Digital Marketer",
+    "SEO Specialist",
+    "Social Media Manager"
+  ],
+  "Hospitality & Tourism": [
+    "Hotel Manager",
+    "Chef",
+    "Travel Agent",
+    "Event Planner"
+  ],
+  "Skilled Trades & Labor": [
+    "Electrician",
+    "Plumber",
+    "Carpenter",
+    "Mechanic"
+  ]
+}

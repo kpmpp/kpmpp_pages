@@ -1,0 +1,19 @@
+{
+  "media": {
+    "title": "KPMPP मीडिया",
+    "categories": {
+      "news": "अख़बार",
+      "events": "आगामी कार्यक्रम",
+      "videos": "मीडिया वीडियो"
+    },
+    "date": "तारीख़"
+  },
+  "buttons": {
+    "readMore": "और पढ़ें",
+    "viewDetails": "विवरण देखें",
+    "watchVideo": "वीडियो देखें",
+    "gridView": "ग्रिड दृश्य",
+    "listView": "सूची दृश्य",
+    "back": "वापस जाएं"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "title": "کے پی ایم پی پی کے مقاصد",
+  "learn_more": "مزید جانیں",
+  "missions": [
+    {
+      "title": "خوراک",
+      "icon": "fa-utensils",
+      "cardGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "description": "خوراک ہر ہندوستانی کو مکمل اور متوازن غذائیت فراہم کرنا ہے، یعنی مرد، خواتین اور بچے۔",
+      "titleGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "buttonGradient": "linear-gradient(135deg, #43e97b, #38f9d7)"
+    },
+    {
+      "title": "رہائش",
+      "icon": "fa-home",
+      "cardGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "description": "رہائش ہندوستان کے ہر خاندان کو ایک مناسب گھر فراہم کرنا ہے۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "کپڑے",
+      "icon": "fa-tshirt",
+      "cardGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "description": "کپڑے کا مطلب ہے کہ ہر علاقے کے لوگوں کو ان کے کپڑے فراہم کرنا یقینی بنانا۔",
+      "titleGradient": "linear-gradient(135deg, #ff7e5f, #feb47b)",
+      "buttonGradient": "linear-gradient(135deg, #667eea, #764ba2)"
+    },
+    {
+      "title": "سڑکیں",
+      "icon": "fa-road",
+      "cardGradient": "linear-gradient(135deg, #56ab2f, #a8e063)",
+      "description": "سڑکوں کا مطلب ہے کہ ہر علاقے کو سڑکیں فراہم کرنا۔",
+      "titleGradient": "linear-gradient(135deg, #43e97b, #38f9d7)",
+      "buttonGradient": "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    },
+    {
+      "title": "معیشت",
+      "icon": "fa-chart-line",
+      "cardGradient": "linear-gradient(135deg, #43cea2, #185a9d)",
+      "description": "معیشت کا مطلب ہے کہ دنیا کے کسی بھی دوسرے ملک سے بہتر معیشت قائم کرنا۔ روپے کی قدر کو یقینی بنانا۔",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "ترقی",
+      "icon": "fa-industry",
+      "cardGradient": "linear-gradient(135deg, #ff4e50, #f9d423)",
+      "description": "ترقی کا مطلب ہے کہ صنعتوں، کٹیر صنعتوں کو قائم کرنا اور دنیا کے ممالک کو برآمدات فراہم کرنا۔",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "کاشتکاری",
+      "icon": "fa-tractor",
+      "cardGradient": "linear-gradient(135deg, #2193b0, #6dd5ed)",
+      "description": "کاشتکاری کا مطلب ہے کہ زمین کو قابل رسائی بنانا اور نئی حمایت فراہم کر کے کاشتکاری کو بہتر بنانا۔",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "ملازمتیں",
+      "icon": "fa-briefcase",
+      "cardGradient": "linear-gradient(135deg, #ff758c, #ff7eb3)",
+      "description": "ملازمتیں کا مطلب ہے کہ حکومتی، نجی اور معاہدہ، آؤٹ سورسنگ ملازمین کے لیے روزگار کے مواقع فراہم کرنا۔",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "تعلیم",
+      "icon": "fa-graduation-cap",
+      "cardGradient": "linear-gradient(135deg, #f857a6, #ff5858)",
+      "description": "تعلیم کا مطلب ہے کہ دنیا کے کسی بھی دوسرے ملک سے بہتر جدید تعلیم قائم کرنا۔ تنخواہیں فراہم کرنا۔",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "طب",
+      "icon": "fa-heartbeat",
+      "cardGradient": "linear-gradient(135deg, #ff9966, #ff5e62)",
+      "description": "طب کا مطلب ہے کہ اعلی فیصد کو یقینی بنانے کے لیے ضروری انتظامات کرنا۔",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "پانی کا انتظام",
+      "icon": "fa-tint",
+      "cardGradient": "linear-gradient(135deg, #f12711, #f5af19)",
+      "description": "پانی کا انتظام اور صفائی ہندوستان میں دنیا کی 18 فیصد آبادی ہے، لیکن دنیا کا صرف 4 فیصد پانی ہے۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "داخلی سلامتی",
+      "icon": "fa-shield-alt",
+      "cardGradient": "linear-gradient(135deg, #ffc6ff, #0072ff)",
+      "description": "داخلی سلامتی 2008 میں ممبئی دہشت گردی کے حملوں کے بعد، کانگریس نے داخلی سلامتی کو دوبارہ تعمیر کیا۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "صحت",
+      "icon": "fa-medkit",
+      "cardGradient": "linear-gradient(135deg, #36d1dc, #5b86e5)",
+      "description": "صحت کے پی ایم پارٹی عوام کی صحت اور طبی دیکھ بھال کو تسلیم کرنے والی پہلی سیاسی پارٹی ہے۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "مذہبی اور لسانی اقلیتیں",
+      "icon": "fa-praying-hands",
+      "cardGradient": "linear-gradient(135deg, #ff6a88, #ff99ac)",
+      "description": "مذہبی اور لسانی اقلیتیں مذاہب کی تنوع ہندوستان کی تاریخ کو ظاہر کرتی ہے۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "انفراسٹرکچر",
+      "icon": "fa-cogs",
+      "cardGradient": "linear-gradient(135deg, #ff758c, #dd2476)",
+      "description": "انفراسٹرکچر کا مطلب ہے کہ ایک معیشت کا ہارڈویئر سڑکیں، ریلوے، بندرگاہیں، ہوائی اڈے اور بجلی۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "میڈیا",
+      "icon": "fa-camera",
+      "cardGradient": "linear-gradient(135deg, #ff512f, #dd2476)",
+      "description": "میڈیا گزشتہ دس سالوں میں، میڈیا کے اہم حصے لوٹے گئے یا ہتھیار ڈال دیے گئے۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "شمال مشرقی ریاستیں",
+      "icon": "fa-map-pin",
+      "cardGradient": "linear-gradient(135deg, #6a11cb, #2575fc)",
+      "description": "شمال مشرقی ریاستیں ہندوستانی فیڈریشن کے اندر تنوع اور نمائندگی کو ظاہر کرتی ہیں۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #dc0592, #fad0c4)"
+    },
+    {
+      "title": "ٹیکس اور ٹیکس اصلاحات",
+      "icon": "fa-calculator",
+      "cardGradient": "linear-gradient(135deg, #00c3ff, #ffff1c)",
+      "description": "ٹیکس اور ٹیکس اصلاحات بی جے پی / این ڈی اے حکومت کے گزشتہ دس سالوں میں ٹیکس کنٹرول کے بغیر چلنے والا ایک کیس ہے۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff0923, #fad0c4)"
+    },
+    {
+      "title": "خواتین کی ترقی",
+      "icon": "fa-female",
+      "cardGradient": "linear-gradient(135deg, #ff758c, #ff7eb3)",
+      "description": "خواتین کی ترقی تاریخی طور پر، خواتین کو امتیازی سلوک کا سامنا کرنا پڑا ہے اور بڑے ظلم کا شکار ہوئی ہیں۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #99599c, #fad0c4)"
+    },
+    {
+      "title": "دیہی اور شہری ترقی",
+      "icon": "fa-city",
+      "cardGradient": "linear-gradient(135deg, #11998e, #38ef7d)",
+      "description": "دیہی اور شہری ترقی ہندوستان کے سامنے دو حقائق ہیں (1) ہندوستان میں 60 فیصد لوگ دیہی علاقوں میں رہتے ہیں۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "کھیل",
+      "icon": "fa-football-ball",
+      "cardGradient": "linear-gradient(135deg, #2c3e50, #3498db)",
+      "description": "کھیل ہندوستان کی آزادی کی تاریخ میں کسی بھی حکومت نے موجودہ بی جے پی حکومت کی طرح کھیلوں کو سیاسی نہیں بنایا۔",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "فن، ثقافت اور روایت",
+      "icon": "fa-paint-brush",
+      "cardGradient": "linear-gradient(135deg, #00c6ff, #0072ff)",
+      "description": "فن، ثقافت اور روایت ایک قوم کی شناخت بناتے ہیں۔ بی جے پی / این ڈی اے۔",
+      "titleGradient": "linear-gradient(135deg, #eeaa45, #eadc06)",
+      "buttonGradient": "linear-gradient(135deg, #672091, #fad0c4)"
+    },
+    {
+      "title": "بے روزگاری",
+      "icon": "fa-users-slash",
+      "cardGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "description": "بے روزگاری کا مطلب ہے کہ روزگار کی مانگ کو پورا کرنا آج کا سب سے بڑا چیلنج ہے۔",
+      "titleGradient": "linear-gradient(110deg, #572349, #fadc04)",
+      "buttonGradient": "linear-gradient(135deg, #238936, #fad0c4)"
+    },
+    {
+      "title": "تعلیم",
+      "icon": "fa-chalkboard-teacher",
+      "cardGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "description": "تعلیم ایک عوامی چیز ہے اور ہر طالب علم کو مفت، معیاری تعلیم حاصل کرنے کا حق ہے۔",
+      "titleGradient": "linear-gradient(135deg, #4397bb, #ee0979)",
+      "buttonGradient": "linear-gradient(120deg, #294756, #cad0c4)"
+    }
+  ]
+}

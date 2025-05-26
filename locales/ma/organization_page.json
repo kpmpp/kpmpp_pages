@@ -1,0 +1,95 @@
+{
+  "organizationRoles": {
+    "President": {
+      "title": "President",
+      "description": "The President oversees the strategic direction of the party and is responsible for major decisions.",
+      "gradient": "linear-gradient(135deg, #ff7e5f, #feb47b)",
+      "detailedDescription": {
+        "heading": "The President shall be the Chief Executive of the Association",
+        "points": [
+          "Exercises overall control over the association’s affairs.",
+          "Presides over all key meetings and decision-making bodies.",
+          "Ensures administrative and legislative measures benefit members.",
+          "Operates bank accounts jointly with the General Secretary.",
+          "Manages urgent expenditures with later approval.",
+          "Exercise overall control over the affairs of the Association.",
+          "Preside over all the meetings of the Central and State Council, Central and State Executive Committee, and the Parliament, Secretariat.",
+          "Keep close contact with the central and state Branches, City Centre, Spl. Branches, and Assembly Constituencies.",
+          "Closely watch the administrative and legislative measures directly affecting the interests of the Employers and Employees and initiate appropriate action.",
+          "Appoint the Staff within the scale approved by the Executive Committee in consultation with the General Secretary.",
+          "Consult General Secretary in all important matters.",
+          "Have power to permit expenditure in excess of the limit prescribed in article VIII (3) (c) in case of urgency and place it before the next Executive Committee for approval.",
+          "The President shall be the Chief Executive of the Association of Central and all States.",
+          "Operate Bank Accounts with General Secretary."
+        ]
+      }
+    },
+    "VicePresident": {
+      "title": "Vice President",
+      "description": "The Vice President assists the President and steps in their absence.",
+      "gradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "detailedDescription": {
+        "heading": "The Vice President shall support the President in their duties",
+        "points": [
+          "Shall assist the President in the discharge of his duties and shall exercise all or any of the powers delegated to him by the President.",
+          "Shall, in the absence of the President, exercise all the powers of the President and perform all his duties."
+        ]
+      }
+    },
+    "GeneralSecretary": {
+      "title": "General Secretary",
+      "description": "The General Secretary handles the internal functioning and administration of the party.",
+      "gradient": "linear-gradient(135deg, #4facfe, #00f2fe)",
+      "detailedDescription": {
+        "heading": "The General Secretary shall handle the internal administration of the Association",
+        "points": [
+          "Maintain the Central Office and attend to correspondence with the assistance of the Organising Secretary and Secretaries and Parliament.",
+          "Control the staff sanctioned to the Central Office.",
+          "Maintain records of the minutes of the meeting of the Central and State Council, the Central and State Executive, and the Secretariat, and be in charge of all the records, registers, stores, and properties of the Association.",
+          "Take suitable steps to implement the decisions or directions of the Central and State Council, Central and State Executive Committee, and the Secretariat.",
+          "Consult the President in all important matters.",
+          "Convene all meetings in consultation with the President, such as Secretariat, Executive, and State Council and Departmental Cells.",
+          "Take such steps as are necessary to preserve the records and documents and arrange for their safe custody.",
+          "Operate bank accounts jointly with the President.",
+          "Maintain the members lists of the Central and State Branches, City Centre, Special Branches, and Assembly Constituencies.",
+          "Maintain a register of properties of Central and State Branches, City Centre, Special Branches, and Assembly Constituencies.",
+          "Incur expenditure within such limits as may be prescribed from time to time by the Central and State Executive. All payments exceeding Rs.1,000/- shall be made in consultation with the President.",
+          "Be the Editor/Publisher of the Magazines/Journals of the Association."
+        ]
+      }
+    },
+    "JointSecretary": {
+      "title": "Joint Secretary",
+      "description": "The Joint Secretary assists the General Secretary in their duties and acts in their absence.",
+      "gradient": "linear-gradient(135deg, #ffcc00, #ff6699)",
+      "detailedDescription": {
+        "heading": "The Joint Secretary shall assist the General Secretary in their duties",
+        "points": [
+          "Assist the General Secretary in the discharge of his duties.",
+          "In the absence of the General Secretary:",
+          [
+            "Exercise all the powers entrusted to him by the General Secretary and perform his duties.",
+            "Be the publisher of the Magazines and Journals of the Association."
+          ]
+        ]
+      }
+    },
+    "Treasurer": {
+      "title": "Treasurer",
+      "description": "The Treasurer is responsible for the financial management of the party.",
+      "gradient": "linear-gradient(135deg, #43e97b, #38f9d7)",
+      "detailedDescription": {
+        "heading": "The Treasurer shall oversee the financial matters of the Association",
+        "points": [
+          "Collect the Association dues and assessments from the Central and State Branches, City Centre, Special Branch, and Assembly Constituencies and report to the State Executive Committee periodically on the collections and present annual audited accounts to the State Executive Committee within 3 months after completion of the year.",
+          "Maintain accounts, receipts, and expenditure of the State and present the yearly audited accounts furnished by the Branches, City Centre, and Special Branches.",
+          "Make payments as approved by the President.",
+          "Assist the General Secretary in the preparation and presentation of the Annual Budget.",
+          "Have the accounts audited every year and present them to the State Executive Committee.",
+          "Shall place income and expenditure statements before the Executive periodically.",
+          "Shall issue receipts for all the money received by the Association and deposit the same in the bank and inform the President periodically."
+        ]
+      }
+    }
+  }
+}

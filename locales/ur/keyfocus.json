@@ -1,0 +1,61 @@
+{
+  "title": "اہم مقاصد",
+  "file_complaint": "شکایت درج کریں",
+  "items": [
+    {
+      "title": "گھر",
+      "description": "بھارت میں ہر خاندان کو 3BHK گھر فراہم کرنا۔",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "مالیات",
+      "description": "بھارت میں ہر گھر کو قرض سے پاک (0 فنانس) بنانا۔",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #1E9600, #FFF200, #FF0000)"
+    },
+    {
+      "title": "کسان",
+      "description": "کسانوں کو کاشت سے لے کر فصل کی کٹائی تک ہر مرحلے میں مدد فراہم کرنا۔",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #00C9FF, #92FE9D)"
+    },
+    {
+      "title": "پنشن",
+      "description": "حکومتی، کنٹریکٹ، آؤٹ سورسنگ، اور اعزازی کارکنوں کے لیے پرانی پنشن اسکیم کو نافذ کرنا۔",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #F37335, #FDC830)"
+    },
+    {
+      "title": "نجی کمپنیاں",
+      "description": "تسلیم شدہ نجی اداروں میں ملازمین کے لیے مناسب تنخواہ اور پنشن اسکیمیں فراہم کرنا۔",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #8E0E00, #1F1C18)"
+    },
+    {
+      "title": "طلباء",
+      "description": "تعلیم کے ذریعے روزگار کے مواقع اور ملازمت کے امکانات پیدا کرنا۔",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #FC4A1A, #F7B733)"
+    },
+    {
+      "title": "خوراک",
+      "description": "عوام، ماؤں اور بچوں کے لیے غذائیت سے بھرپور خوراک فراہم کرنا۔",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #41295A, #2F0743)"
+    },
+    {
+      "title": "عالمی ضروریات",
+      "description": "عالمی ضروریات کو پورا کرنے میں بھارت کے کردار کو مستحکم کرنا۔",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #4568DC, #B06AB3)"
+    },
+    {
+      "title": "سرکاری ملازمتیں اور صنعت",
+      "description": "ہر گھر میں ایک سرکاری ملازمت اور چھوٹی صنعتوں کو فروغ دینا۔",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #11998E, #38EF7D)"
+    }
+  ],
+  "button": "مزید جانیں"
+}

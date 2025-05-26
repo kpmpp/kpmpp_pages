@@ -1,0 +1,19 @@
+{
+  "media": {
+    "title": "KPMPP Media",
+    "categories": {
+      "news": "Newspapers",
+      "events": "Upcoming Events",
+      "videos": "Media Videos"
+    },
+    "date": "Date"
+  },
+  "buttons": {
+    "readMore": "Read More",
+    "viewDetails": "View Details",
+    "watchVideo": "Watch Video",
+    "gridView": "Grid View",
+    "listView": "List View",
+    "back": "Back"
+  }
+}

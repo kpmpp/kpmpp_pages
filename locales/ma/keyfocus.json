@@ -1,0 +1,61 @@
+{
+  "title": "मुख्य लक्ष केंद्रबिंदू",
+  "file_complaint": "तक्रार नोंदवा",
+  "items": [
+    {
+      "title": "घर",
+      "description": "भारतातील प्रत्येक कुटुंबाला 3BHK घर देणे.",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #1A2980, #26D0CE)"
+    },
+    {
+      "title": "आर्थिक मदत",
+      "description": "भारतातील प्रत्येक घर कर्जमुक्त करणे (0 फायनान्स).",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #7F00FF, #E100FF)"
+    },
+    {
+      "title": "शेतकरी",
+      "description": "शेतकऱ्यांना पेरणीपासून ते कापणीपर्यंत प्रत्येक टप्प्यावर सहाय्य करणे.",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #009EFD, #2AF598)"
+    },
+    {
+      "title": "पेन्शन",
+      "description": "सरकारी, कंत्राटी, आउटसोर्सिंग आणि मानधन कर्मचाऱ्यांसाठी जुनी पेन्शन योजना लागू करणे.",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "खाजगी संस्था",
+      "description": "मान्यताप्राप्त खाजगी संस्थांमध्ये काम करणाऱ्या कर्मचाऱ्यांना योग्य वेतन आणि पेन्शन योजना देणे.",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #642B73, #C6426E)"
+    },
+    {
+      "title": "विद्यार्थी",
+      "description": "विद्यार्थ्यांसाठी शिक्षणाच्या माध्यमातून रोजगार व नोकरीच्या संधी निर्माण करणे.",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #1D2B64, #F8CDDA)"
+    },
+    {
+      "title": "अन्न",
+      "description": "सामान्य जनतेला, मातांना आणि मुलांना पोषणयुक्त अन्न उपलब्ध करून देणे.",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #FF5F6D, #FFC371)"
+    },
+    {
+      "title": "जागतिक गरजा",
+      "description": "जागतिक गरजांकडे लक्ष देणे आणि त्या पूर्ण करण्यामध्ये भारताची भूमिका.",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #12C2E9, #F64F59)"
+    },
+    {
+      "title": "सरकारी नोकऱ्या व उद्योग",
+      "description": "प्रत्येक कुटुंबाला एक सरकारी नोकरी आणि लघुउद्योगांना पाठबळ.",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #FF9A9E, #FAD0C4)"
+    }
+  ],
+  "button": "अधिक जाणून घ्या"
+}

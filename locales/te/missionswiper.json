@@ -1,0 +1,198 @@
+{
+    "title": "కె.పి.ఎం.పి.పి లక్ష్యాలు",
+    "learn_more": "మరింత తెలుసుకోండి",
+    "missions": [
+      {
+        "title": "ఆహారం",
+        "icon": "fa-utensils",
+        "cardGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "description": "ఆహారం అనేది ప్రతి భారతీయుడికి పూర్తి మరియు సమతుల్య పోషణను అందించడం, అంటే పురుషులు, మహిళలు మరియు పిల్లలు.",
+        "titleGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+        "buttonGradient": "linear-gradient(135deg, #43e97b, #38f9d7)"
+      },
+      {
+        "title": "గృహనిర్మాణం",
+        "icon": "fa-home",
+        "cardGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+        "description": "గృహనిర్మాణం అనేది భారతదేశంలోని ప్రతి కుటుంబానికి తగిన గృహాన్ని అందించడం.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "బట్టలు",
+        "icon": "fa-tshirt",
+        "cardGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "description": "బట్టలు అనేది ప్రాంతాల ప్రకారం వారి బట్టలను అందించడాన్ని నిర్ధారించడం.",
+        "titleGradient": "linear-gradient(135deg, #ff7e5f, #feb47b)",
+        "buttonGradient": "linear-gradient(135deg, #667eea, #764ba2)"
+      },
+      {
+        "title": "రోడ్లు",
+        "icon": "fa-road",
+        "cardGradient": "linear-gradient(135deg, #56ab2f, #a8e063)",
+        "description": "రోడ్లు అనేది ప్రతి ప్రాంతానికి రోడ్లను అందించడం.",
+        "titleGradient": "linear-gradient(135deg, #43e97b, #38f9d7)",
+        "buttonGradient": "linear-gradient(135deg, #ff7e5f, #feb47b)"
+      },
+      {
+        "title": "ఆర్థిక వ్యవస్థ",
+        "icon": "fa-chart-line",
+        "cardGradient": "linear-gradient(135deg, #43cea2, #185a9d)",
+        "description": "ఆర్థిక వ్యవస్థ అనేది ప్రపంచంలోని ఇతర దేశాల కంటే మెరుగైన ఆర్థిక వ్యవస్థను స్థాపించడం. రూపాయి విలువను నిర్ధారించడం.",
+        "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+      },
+      {
+        "title": "అభివృద్ధి",
+        "icon": "fa-industry",
+        "cardGradient": "linear-gradient(135deg, #ff4e50, #f9d423)",
+        "description": "అభివృద్ధి అనేది పరిశ్రమలు, కుటీర పరిశ్రమలను స్థాపించి, ప్రపంచ దేశాలకు ఎగుమతులు చేయడం.",
+        "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+      },
+      {
+        "title": "వ్యవసాయం",
+        "icon": "fa-tractor",
+        "cardGradient": "linear-gradient(135deg, #2193b0, #6dd5ed)",
+        "description": "వ్యవసాయం అనేది భూమిని అందుబాటులోకి తీసుకురావడం మరియు కొత్త మద్దతును అందించడం ద్వారా వ్యవసాయాన్ని మెరుగుపరచడం.",
+        "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+      },
+      {
+        "title": "ఉద్యోగాలు",
+        "icon": "fa-briefcase",
+        "cardGradient": "linear-gradient(135deg, #ff758c, #ff7eb3)",
+        "description": "ఉద్యోగాలు అనేది ప్రభుత్వ, ప్రైవేట్ మరియు కాంట్రాక్ట్, అవుట్సోర్సింగ్ ఉద్యోగులందరికీ ఉద్యోగ అవకాశాలను నిర్ధారించడం.",
+        "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+      },
+      {
+        "title": "విద్య",
+        "icon": "fa-graduation-cap",
+        "cardGradient": "linear-gradient(135deg, #f857a6, #ff5858)",
+        "description": "విద్య అనేది ప్రపంచంలోని ఇతర దేశాల కంటే ఆధునిక విద్యను స్థాపించడం. జీతాలను అందించడం.",
+        "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+      },
+      {
+        "title": "వైద్యం",
+        "icon": "fa-heartbeat",
+        "cardGradient": "linear-gradient(135deg, #ff9966, #ff5e62)",
+        "description": "వైద్యం అనేది అధిక శాతాన్ని నిర్ధారించడానికి అవసరమైన ఏర్పాట్లను చేయడం.",
+        "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+      },
+      {
+        "title": "నీటి నిర్వహణ",
+        "icon": "fa-tint",
+        "cardGradient": "linear-gradient(135deg, #f12711, #f5af19)",
+        "description": "నీటి నిర్వహణ మరియు స్వచ్ఛత భారతదేశంలో ప్రపంచ జనాభాలో 18 శాతం ఉన్నప్పటికీ, ప్రపంచంలోని 4 శాతం నీరు మాత్రమే ఉంది.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "దేశీయ భద్రత",
+        "icon": "fa-shield-alt",
+        "cardGradient": "linear-gradient(135deg, #ffc6ff, #0072ff)",
+        "description": "దేశీయ భద్రత 2008లో ముంబై ఉగ్రవాద దాడుల తర్వాత, కాంగ్రెస్ దేశీయ భద్రతను పునర్నిర్మించింది.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "ఆరోగ్యం",
+        "icon": "fa-medkit",
+        "cardGradient": "linear-gradient(135deg, #36d1dc, #5b86e5)",
+        "description": "ఆరోగ్యం కె.పి.ఎం. పార్టీ ప్రజల ఆరోగ్యం మరియు వైద్య సంరక్షణను గుర్తించిన మొదటి రాజకీయ పార్టీ.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "మత మరియు భాషా మైనారిటీలు",
+        "icon": "fa-praying-hands",
+        "cardGradient": "linear-gradient(135deg, #ff6a88, #ff99ac)",
+        "description": "మత మరియు భాషా మైనారిటీలు మతాల బహుళత్వం భారతదేశ చరిత్రను ప్రతిబింబిస్తుంది.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "ఇన్ఫ్రాస్ట్రక్చర్",
+        "icon": "fa-cogs",
+        "cardGradient": "linear-gradient(135deg, #ff758c, #dd2476)",
+        "description": "ఇన్ఫ్రాస్ట్రక్చర్ అనేది ఒక ఆర్థిక వ్యవస్థ యొక్క హార్డ్వేర్ రోడ్లు, రైల్వే, పోర్ట్స్, ఎయిర్పోర్ట్స్ మరియు విద్యుత్.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "మీడియా",
+        "icon": "fa-camera",
+        "cardGradient": "linear-gradient(135deg, #ff512f, #dd2476)",
+        "description": "మీడియా గత పది సంవత్సరాలలో, మీడియా యొక్క గణనీయమైన విభాగాలు దోచుకోబడ్డాయి లేదా లొంగిపోయాయి.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "వాయువ్య రాష్ట్రాలు",
+        "icon": "fa-map-pin",
+        "cardGradient": "linear-gradient(135deg, #6a11cb, #2575fc)",
+        "description": "వాయువ్య రాష్ట్రాలు భారత ఫెడరేషన్ లోపల బహుళత్వం మరియు ప్రాతినిధ్యాన్ని సూచిస్తాయి.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #dc0592, #fad0c4)"
+      },
+      {
+        "title": "పన్ను మరియు పన్ను సంస్కరణలు",
+        "icon": "fa-calculator",
+        "cardGradient": "linear-gradient(135deg, #00c3ff, #ffff1c)",
+        "description": "పన్ను మరియు పన్ను సంస్కరణలు బీజేపీ/ఎన్డిఎ ప్రభుత్వం యొక్క గత పది సంవత్సరాలు పన్ను నియంత్రణ లేకుండా వెళ్ళిన ఒక కేసు.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff0923, #fad0c4)"
+      },
+      {
+        "title": "మహిళా అభివృద్ధి",
+        "icon": "fa-female",
+        "cardGradient": "linear-gradient(135deg, #ff758c, #ff7eb3)",
+        "description": "మహిళా అభివృద్ధి చారిత్రాత్మకంగా, మహిళలు వివక్షతకు గురై, పెద్ద అన్యాయానికి గురయ్యారు.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #99599c, #fad0c4)"
+      },
+      {
+        "title": "గ్రామీణ మరియు పట్టణ అభివృద్ధి",
+        "icon": "fa-city",
+        "cardGradient": "linear-gradient(135deg, #11998e, #38ef7d)",
+        "description": "గ్రామీణ మరియు పట్టణ అభివృద్ధి భారతదేశం ఎదుర్కొంటున్న రెండు వాస్తవాలు (1) భారతదేశంలో 60 శాతం ప్రజలు గ్రామీణ ప్రాంతాలలో నివసిస్తున్నారు.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "క్రీడలు",
+        "icon": "fa-football-ball",
+        "cardGradient": "linear-gradient(135deg, #2c3e50, #3498db)",
+        "description": "క్రీడలు భారతదేశ స్వాతంత్ర్య చరిత్రలో ఏ ప్రభుత్వం కూడా ప్రస్తుత బీజేపీ ప్రభుత్వం వలె క్రీడలను రాజకీయం చేయలేదు.",
+        "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+        "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+      },
+      {
+        "title": "కళ, సంస్కృతి మరియు పారంపర్యత",
+        "icon": "fa-paint-brush",
+        "cardGradient": "linear-gradient(135deg, #00c6ff, #0072ff)",
+        "description": "కళ, సంస్కృతి మరియు పారంపర్యత ఒక ప్రజల గుర్తింపును రూపొందిస్తాయి. బీజేపీ/ఎన్డిఏ.",
+        "titleGradient": "linear-gradient(135deg, #eeaa45, #eadc06)",
+        "buttonGradient": "linear-gradient(135deg, #672091, #fad0c4)"
+      },
+      {
+        "title": "నిరుద్యోగం",
+        "icon": "fa-users-slash",
+        "cardGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+        "description": "నిరుద్యోగం ఉద్యోగాల కోసం డిమాండ్ ను తీర్చడం ఈ రోజు అతిపెద్ద సవాలుగా ఉంది.",
+        "titleGradient": "linear-gradient(110deg, #572349, #fadc04)",
+        "buttonGradient": "linear-gradient(135deg, #238936, #fad0c4)"
+      },
+      {
+        "title": "విద్య",
+        "icon": "fa-chalkboard-teacher",
+        "cardGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+        "description": "విద్య అనేది ఒక ప్రజా వస్తువు మరియు ప్రతి విద్యార్థికి ఉచిత, నాణ్యమైన విద్య పొందే హక్కు ఉంది.",
+        "titleGradient": "linear-gradient(135deg, #4397bb, #ee0979)",
+        "buttonGradient": "linear-gradient(120deg, #294756, #cad0c4)"
+      }
+    ]
+  }

@@ -1,0 +1,61 @@
+{
+  "title": "ప్రధాన దృష్టి ప్రాంతాలు",
+  "file_complaint": "ఫిర్యాదు చేయండి",
+  "items": [
+    {
+      "title": "ఇల్లు",
+      "description": "భారతదేశంలోని ప్రతి కుటుంబానికి 3BHK ఇల్లు అందించడం.",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #1A2980, #26D0CE)"
+    },
+    {
+      "title": "ఆర్థికం",
+      "description": "భారతదేశంలోని ప్రతి ఇంటిని రుణరహితంగా (0 ఆర్థికం) చేయడం.",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #7F00FF, #E100FF)"
+    },
+    {
+      "title": "వ్యవసాయదారులు",
+      "description": "పంట నాటడం నుండి పంటను సేకరించడం వరకు వ్యవసాయదారులను మద్దతు చేయడం.",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #009EFD, #2AF598)"
+    },
+    {
+      "title": "పెన్షన్",
+      "description": "సర్కారీ, ఒప్పందం, ఔట్సోర్సింగ్ మరియు గౌరవ వేతన ఉద్యోగులందరికీ రిటైర్మెంట్ సమయంలో పాత పెన్షన్ పథకాన్ని అమలు చేయడం.",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "ప్రైవేట్ కంపెనీ",
+      "description": "ప్రత్యామ్నాయ ప్రైవేట్ సంస్థలలో ఉద్యోగులకు సరైన వేతనాలు మరియు పెన్షన్ పథకాలు అందించడం.",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #642B73, #C6426E)"
+    },
+    {
+      "title": "మా విద్యార్థులు",
+      "description": "విద్యా విద్యార్థులకు ఎన్నో ఉద్యోగ అవకాశాలను మరియు ఉపాధి అవకాశాలను సృష్టిస్తుంది.",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #1D2B64, #F8CDDA)"
+    },
+    {
+      "title": "ఆహారం",
+      "description": "ప్రజలకు, తల్లులకు మరియు పిల్లలకు పోషక ఆహారం అందించడం.",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #FF5F6D, #FFC371)"
+    },
+    {
+      "title": "ప్రపంచ అవసరాలు",
+      "description": "ప్రపంచ అవసరాలను మరియు వాటిని తీర్చడానికి భారతదేశం ఎలా సహాయం చేస్తుందో చూడటం.",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #12C2E9, #F64F59)"
+    },
+    {
+      "title": "సర్కారి ఉద్యోగాలు & పరిశ్రమ",
+      "description": "ప్రతి కుటుంబానికి ఒక సర్కారి ఉద్యోగం మరియు చిన్న పరిశ్రమలకు మద్దతు.",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #FF9A9E, #FAD0C4)"
+    }
+  ],
+  "button": "మరింత తెలుసుకోండి"
+}

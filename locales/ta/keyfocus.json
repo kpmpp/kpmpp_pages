@@ -1,0 +1,61 @@
+{
+  "title": "முக்கிய கவனம் செலுத்தும் பிரிவுகள்",
+  "file_complaint": "புகார் அளிக்கவும்",
+  "items": [
+    {
+      "title": "வீடு",
+      "description": "இந்தியாவின் ஒவ்வொரு குடும்பத்துக்கும் 3BHK வீடு வழங்குதல்.",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #1A2980, #26D0CE)"
+    },
+    {
+      "title": "பணம்",
+      "description": "இந்தியாவின் ஒவ்வொரு வீட்டையும் கடனற்ற (0 நிதி) செய்யுதல்.",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #7F00FF, #E100FF)"
+    },
+    {
+      "title": "கிராமியர்",
+      "description": "பயிர் நடுதல் முதல் அறுவடை செய்யும் வரை விவசாயிகளுக்கு உதவி.",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #009EFD, #2AF598)"
+    },
+    {
+      "title": "பென்ஷன்",
+      "description": "அரசு, ஒப்பந்த, வெளியீடு மற்றும் மானியத் தொழிலாளர்களுக்கு ஓய்வூதியத்தை அறிமுகப்படுத்துதல்.",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "தனியார் நிறுவனம்",
+      "description": "அங்கீகாரம் பெற்ற தனியார் நிறுவனங்களின் பணியாளர்களுக்கு சரியான சம்பளம் மற்றும் ஓய்வூதியத் திட்டங்கள் வழங்குதல்.",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #642B73, #C6426E)"
+    },
+    {
+      "title": "மாணவர்கள்",
+      "description": "கல்வி மாணவர்களுக்கு பல வேலை வாய்ப்புகளை உருவாக்குகிறது.",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #1D2B64, #F8CDDA)"
+    },
+    {
+      "title": "ஆஹாரம்",
+      "description": "பொதுமக்களுக்கும், தாயார்களுக்கும், குழந்தைகளுக்கும் ஊட்டச்சத்து நிறைந்த உணவு வழங்குதல்.",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #FF5F6D, #FFC371)"
+    },
+    {
+      "title": "உலகளாவிய தேவைகள்",
+      "description": "உலகளாவிய தேவைகளையும், அவற்றை பூர்த்தி செய்ய இந்தியாவின் பங்களிப்பையும் கவனித்தல்.",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #12C2E9, #F64F59)"
+    },
+    {
+      "title": "அரசு வேலை & தொழில்",
+      "description": "ஒவ்வொரு குடும்பத்திற்கும் ஒரு அரசு வேலை மற்றும் சிறிய தொழில்களை ஆதரித்தல்.",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #FF9A9E, #FAD0C4)"
+    }
+  ],
+  "button": "மேலும் அறியவும்"
+}

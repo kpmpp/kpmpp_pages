@@ -1,0 +1,19 @@
+{
+  "media": {
+    "title": "KPMPP మీడియా",
+    "categories": {
+      "news": "పత్రికలు",
+      "events": "ఆగమించే ఈవెంట్స్",
+      "videos": "మీడియా వీడియోలు"
+    },
+    "date": "తేదీ"
+  },
+  "buttons": {
+    "readMore": "మరింత చదవండి",
+    "viewDetails": "వివరాలను చూడండి",
+    "watchVideo": "వీడియో చూడండి",
+    "gridView": "గ్రిడ్ వ్యూ",
+    "listView": "జాబితా వ్యూ",
+    "back": "తిరిగి వెళ్ళండి"
+  }
+}

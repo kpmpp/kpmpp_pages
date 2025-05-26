@@ -1,0 +1,21 @@
+{
+    "Roads": ["Type of damage", "Location", "Urgency level","from location","to Location"],
+    "Crops": ["Crop type", "Issue faced", "Affected area"],
+    "Housing": ["House type", "Damage severity", "Location"],
+    "Education": ["School/College name", "Issue faced", "Required assistance"],
+    "Jobs": ["Job sector", "Qualification", "Issue faced"],
+    "Business": ["Business type", "Challenges faced", "Required support"],
+    "Child Welfare": ["Child's age", "Issue faced", "Support required"],
+    "Clothing": ["Type of clothing", "Issue faced", "Required assistance"],
+    "Finance": ["Financial issue", "Urgency", "Required support"],
+    "Bank Loans": ["Bank name", "Loan type", "Issue faced"],
+    "Loan Apps": ["App name", "Issue faced", "Required resolution"]
+
+
+
+
+
+
+
+  }
+  

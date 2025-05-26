@@ -1,0 +1,36 @@
+{
+    "footer": {
+      "tagline": "Be a part of the change. Stand for progress, justice, and equality!",
+      
+      "about": {
+        "title": "About",
+        "preamble": "Preamble",
+        "objectives": "Objectives",
+        "organization": "Organization"
+      },
+  
+      "media": {
+        "title": "Media",
+        "news": "Latest News",
+        "events": "Upcoming Events",
+        "gallery": "Media Gallery"
+      },
+  
+      "join": {
+        "title": "Join",
+        "work": "Work for us",
+        "office": "Locate office"
+      },
+  
+      "followUs": "Follow Us",
+      "joinUs":"joinus",
+
+      "title": "KPMPP"
+
+
+
+
+
+    }
+  }
+  

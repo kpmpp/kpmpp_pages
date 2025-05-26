@@ -1,0 +1,121 @@
+{
+    "objectives": [
+      {
+        "id": 1,
+        "title": "Food",
+        "description": "To provide complete and balanced nutrition to every Indian i.e. men, women, and children."
+      },
+      {
+        "id": 2,
+        "title": "Housing",
+        "description": "To provide decent housing to every family in India."
+      },
+      {
+        "id": 3,
+        "title": "Clothing",
+        "description": "To ensure that clothing is provided according to the regions."
+      },
+      {
+        "id": 4,
+        "title": "Roads",
+        "description": "Providing roads to every area."
+      },
+      {
+        "id": 5,
+        "title": "Economy",
+        "description": "To establish a better economy than any other country in the world. Seeing that the rupee is worth more than the dollar."
+      },
+      {
+        "id": 6,
+        "title": "Development",
+        "description": "Setting up factories, cottage industries, to export to world countries."
+      },
+      {
+        "id": 7,
+        "title": "Agriculture",
+        "description": "Development of agriculture by making land available and providing new support Assembly Constituencies for a large percentage of India's land area to be cultivated."
+      },
+      {
+        "id": 8,
+        "title": "Employment",
+        "description": "Every single employee working in Government, Private and Contract, Outsourcing, Remuneration, Honorary, Private, Management in India should be regular and get pension and live comfortably after retirement."
+      },
+      {
+        "id": 9,
+        "title": "Education",
+        "description": "Establishing modern education more than any other country in the world. Paying salaries on a regular basis to all teachers and professors and ensuring they receive pensions upon retirement."
+      },
+      {
+        "id": 10,
+        "title": "Medical Health",
+        "description": "Making necessary arrangements to ensure a greater percentage of people are free from illness and ensuring pensions for healthcare workers upon retirement."
+      },
+      {
+        "id": 11,
+        "title": "Employment",
+        "description": "To ensure that all employees (including Asha, Anganwadi teachers, Ayas) working in various sectors receive pensions and live comfortably after retirement."
+      },
+      {
+        "id": 12,
+        "title": "Water Management and Sanitation",
+        "description": "India has 18% of the world's population but only 4% of its water resources. Addressing water stress caused by climate change and monsoon variations."
+      },
+      {
+        "id": 13,
+        "title": "Internal Security",
+        "description": "Strengthening internal security post-2008 Mumbai attacks and addressing hate crimes and communal strife."
+      },
+      {
+        "id": 14,
+        "title": "Health",
+        "description": "KPM Party was the first to acknowledge healthcare as a government responsibility and introduced India's first healthcare scheme."
+      },
+      {
+        "id": 15,
+        "title": "Religious and Linguistic Minorities",
+        "description": "Ensuring the rights of all religious and linguistic minorities as granted by the Indian Constitution."
+      },
+      {
+        "id": 16,
+        "title": "Infrastructure",
+        "description": "Developing roads, railways, ports, airports, and electricity infrastructure to world-class standards."
+      },
+      {
+        "id": 17,
+        "title": "Media",
+        "description": "Ensuring media freedom as per the Indian Constitution."
+      },
+
+      
+      {
+        "id": 18,
+        "title": "North Eastern States",
+        "description": "Recognizing the pluralism and diversity of the North Eastern states within the Union of India."
+      },
+
+
+      {
+        "id": 19,
+        "title": "Taxation and Tax Reforms",
+        "description": "Overhauling India's taxation system to be people-friendly, efficient, and promote investment."
+      },
+
+      {
+        "id": 20,
+        "title": "Women's Empowerment",
+        "description": "Removing discrimination against women and upholding their rights."
+      },
+
+
+      {
+        "id": 21,
+        "title": "Rural and Urban Development",
+        "description": "Addressing the needs of rural and urban areas by providing necessary infrastructure and supporting industrial growth."
+      }
+
+
+
+
+    ]
+  }
+  

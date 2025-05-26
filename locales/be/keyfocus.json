@@ -1,0 +1,61 @@
+{
+  "title": "মূল লক্ষ্য ক্ষেত্রসমূহ",
+  "file_complaint": "অভিযোগ দায়ের করুন",
+  "items": [
+    {
+      "title": "বাড়ি",
+      "description": "ভারতের প্রতিটি পরিবারকে একটি 3BHK বাড়ি প্রদান।",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #1A2980, #26D0CE)"
+    },
+    {
+      "title": "অর্থ",
+      "description": "ভারতের প্রতিটি বাড়িকে ঋণমুক্ত করা (০ ফাইনান্স)।",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #7F00FF, #E100FF)"
+    },
+    {
+      "title": "চাষি",
+      "description": "চাষ শুরু থেকে ফসল কাটার প্রতিটি পর্যায়ে কৃষকদের সহায়তা।",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #009EFD, #2AF598)"
+    },
+    {
+      "title": "পেনশন",
+      "description": "সরকারি, চুক্তিভিত্তিক, আউটসোর্সিং ও সম্মানভিত্তিক কর্মীদের জন্য অবসরের পর পুরানো পেনশন স্কিম বাস্তবায়ন।",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #FF512F, #F09819)"
+    },
+    {
+      "title": "প্রাইভেট কোম্পানি",
+      "description": "স্বীকৃত বেসরকারি প্রতিষ্ঠানের কর্মীদের উপযুক্ত বেতন ও পেনশন সুবিধা প্রদান।",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #642B73, #C6426E)"
+    },
+    {
+      "title": "ছাত্রছাত্রী",
+      "description": "শিক্ষার মাধ্যমে ছাত্রছাত্রীদের জন্য প্রচুর চাকরি ও কর্মসংস্থানের সুযোগ সৃষ্টি।",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #1D2B64, #F8CDDA)"
+    },
+    {
+      "title": "খাদ্য",
+      "description": "সাধারণ জনগণ, মা ও শিশুদের পুষ্টিকর খাবার প্রদান।",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #FF5F6D, #FFC371)"
+    },
+    {
+      "title": "বিশ্বব্যাপী প্রয়োজন",
+      "description": "বিশ্বের প্রয়োজনীয়তা ও তা পূরণে ভারতের ভূমিকা।",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #12C2E9, #F64F59)"
+    },
+    {
+      "title": "সরকারি চাকরি ও শিল্প",
+      "description": "প্রতিটি পরিবারে একটি সরকারি চাকরি এবং ক্ষুদ্র শিল্পের সহায়তা।",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #FF9A9E, #FAD0C4)"
+    }
+  ],
+  "button": "আরও জানুন"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "ప్రధాన లక్ష్య ప్రాంతాలు",
+
+  "file_complaint": "ఫిర్యాదు చేయండి",
+  "items": [
+    {
+      "title": "ఇల్లు",
+      "description": "భారతదేశంలోని ప్రతి కుటుంబానికి 2BHK ఇల్లు అందించడం.",
+      "icon": "fa-solid fa-house",
+      "gradient": "linear-gradient(135deg, #74ebd5, #ACB6E5)"
+    },
+    {
+      "title": "ఆర్థికం",
+      "description": "భారతదేశంలోని ప్రతి ఇంటిని అప్పులేమి లేకుండా (0 ఫైనాన్స్) చేయడం.",
+      "icon": "fa-solid fa-wallet",
+      "gradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "రైతులు",
+      "description": "విత్తనం నాటడం నుండి పంట కోత వరకు రైతులకు సహాయం చేయడం.",
+      "icon": "fa-solid fa-seedling",
+      "gradient": "linear-gradient(135deg, #ffdde1, #ee9ca7)"
+    },
+    {
+      "title": "పింఛను",
+      "description": "ప్రభుత్వ, ఒప్పంద, ఔట్‌సోర్సింగ్ మరియు గౌరవ వేతన ఉద్యోగుల కోసం పాత వృద్ధాప్య పింఛను పథకాన్ని అమలు చేయడం.",
+      "icon": "fa-solid fa-hand-holding-usd",
+      "gradient": "linear-gradient(135deg, #89f7fe, #66a6ff)"
+    },
+    {
+      "title": "ప్రైవేట్ కంపెనీ",
+      "description": "ప్రైవేట్ సంస్థల ఉద్యోగులకు సరైన వేతనం మరియు పింఛను పథకాలను అందించడం.",
+      "icon": "fa-solid fa-briefcase",
+      "gradient": "linear-gradient(135deg, #70e1f5, #ffd194)"
+    },
+    {
+      "title": "విద్యార్థులు",
+      "description": "విద్య ఉద్యోగాలు మరియు ఉపాధి అవకాశాలను సృష్టిస్తుంది.",
+      "icon": "fa-solid fa-graduation-cap",
+      "gradient": "linear-gradient(135deg, #ff758c, #ff7eb3)"
+    },
+    {
+      "title": "ఆహారం",
+      "description": "సామాన్య ప్రజలకు, తల్లులకు, మరియు పిల్లలకు పోషకాహారం అందించడం.",
+      "icon": "fa-solid fa-utensils",
+      "gradient": "linear-gradient(135deg, #c3cfe2, #c3cfe2)"
+    },
+    {
+      "title": "గ్లోబల్ అవసరాలు",
+      "description": "జాతీయ, అంతర్జాతీయ అవసరాలను తీర్చడంలో భారతదేశం చేసే సహాయం.",
+      "icon": "fa-solid fa-globe",
+      "gradient": "linear-gradient(135deg, #ffd89b, #19547b)"
+    },
+    {
+      "title": "ప్రభుత్వ ఉద్యోగాలు & పరిశ్రమ",
+      "description": "ప్రతి కుటుంబానికి ఒక ప్రభుత్వ ఉద్యోగం మరియు చిన్న తరహా పరిశ్రమలకు మద్దతు.",
+      "icon": "fa-solid fa-industry",
+      "gradient": "linear-gradient(135deg, #ffafbd, #ffc3a0)"
+    }
+  ],
+  "button": "మరింత తెలుసుకోండి"
+}

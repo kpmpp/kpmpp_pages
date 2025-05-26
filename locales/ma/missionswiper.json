@@ -1,0 +1,198 @@
+{
+  "title": "केपीएमपीपी",
+  "learn_more": "अधिक जाणून घ्या",
+  "missions": [
+    {
+      "title": "अन्न",
+      "icon": "fa-utensils",
+      "cardGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "description": "अन्न म्हणजे प्रत्येक भारतीय, म्हणजे पुरुष, स्त्रिया आणि मुलांना पूर्ण आणि संतुलित पोषण प्रदान करणे.",
+      "titleGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "buttonGradient": "linear-gradient(135deg, #43e97b, #38f9d7)"
+    },
+    {
+      "title": "गृहनिर्माण",
+      "icon": "fa-home",
+      "cardGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "description": "भारतातील प्रत्येक कुटुंबाला सभ्य गृहनिर्माण प्रदान करणे.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "कपडे",
+      "icon": "fa-tshirt",
+      "cardGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "description": "कपडे हे सुनिश्चित करणे की त्यांचे कपडे प्रदेशानुसार पुरवले जातात.",
+      "titleGradient": "linear-gradient(135deg, #ff7e5f, #feb47b)",
+      "buttonGradient": "linear-gradient(135deg, #667eea, #764ba2)"
+    },
+    {
+      "title": "रस्ते",
+      "icon": "fa-road",
+      "cardGradient": "linear-gradient(135deg, #56ab2f, #a8e063)",
+      "description": "रस्ते प्रत्येक भागात रस्ते पुरवठा करणे.",
+      "titleGradient": "linear-gradient(135deg, #43e97b, #38f9d7)",
+      "buttonGradient": "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    },
+    {
+      "title": "अर्थव्यवस्था",
+      "icon": "fa-chart-line",
+      "cardGradient": "linear-gradient(135deg, #43cea2, #185a9d)",
+      "description": "अर्थव्यवस्था जगातील इतर कोणत्याही देशापेक्षा एक चांगली अर्थव्यवस्था स्थापित करणे. रुपयाचे मूल्य सुनिश्चित करणे.",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "विकास",
+      "icon": "fa-industry",
+      "cardGradient": "linear-gradient(135deg, #ff4e50, #f9d423)",
+      "description": "विकास कारखाने, कुटीर उद्योग स्थापन करून जगभरातील देशांना निर्यात करणे.",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "कृषी",
+      "icon": "fa-tractor",
+      "cardGradient": "linear-gradient(135deg, #2193b0, #6dd5ed)",
+      "description": "कृषी जमीन उपलब्ध करून आणि नवीन सहाय्य प्रदान करून कृषीचा विकास करणे.",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "रोजगार",
+      "icon": "fa-briefcase",
+      "cardGradient": "linear-gradient(135deg, #ff758c, #ff7eb3)",
+      "description": "रोजगार सरकारी, खाजगी आणि करार, आउटसोर्सिंगमध्ये काम करणाऱ्या प्रत्येक कर्मचाऱ्याला सुनिश्चित करणे.",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "शिक्षण",
+      "icon": "fa-graduation-cap",
+      "cardGradient": "linear-gradient(135deg, #f857a6, #ff5858)",
+      "description": "शिक्षण जगातील इतर कोणत्याही देशापेक्षा आधुनिक शिक्षण स्थापित करणे. पगार देणे.",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "वैद्यकीय आरोग्य",
+      "icon": "fa-heartbeat",
+      "cardGradient": "linear-gradient(135deg, #ff9966, #ff5e62)",
+      "description": "वैद्यकीय आरोग्य एक मोठा टक्केवारी सुनिश्चित करण्यासाठी आवश्यक व्यवस्था करणे.",
+      "titleGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "buttonGradient": "linear-gradient(135deg, #ff6a00, #ee0979)"
+    },
+    {
+      "title": "जल व्यवस्थापन",
+      "icon": "fa-tint",
+      "cardGradient": "linear-gradient(135deg, #f12711, #f5af19)",
+      "description": "जल व्यवस्थापन आणि स्वच्छता भारताची लोकसंख्या जगाच्या 18% आहे परंतु फक्त 4% पाणी संसाधने आहेत.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "आंतरराष्ट्रीय सुरक्षा",
+      "icon": "fa-shield-alt",
+      "cardGradient": "linear-gradient(135deg, #ffc6ff, #0072ff)",
+      "description": "आंतरराष्ट्रीय सुरक्षा 2008 च्या मुंबई दहशतवादी हल्ल्यानंतर, काँग्रेसने आंतरराष्ट्रीय सुरक्षा पुनर्गठित केली.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "आरोग्य",
+      "icon": "fa-medkit",
+      "cardGradient": "linear-gradient(135deg, #36d1dc, #5b86e5)",
+      "description": "आरोग्य केपीएम पक्ष हा पहिला राजकीय पक्ष होता ज्याने लोकांचे आरोग्य आणि आरोग्यसेवा स्वीकारली.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "धार्मिक आणि भाषिक अल्पसंख्याक",
+      "icon": "fa-praying-hands",
+      "cardGradient": "linear-gradient(135deg, #ff6a88, #ff99ac)",
+      "description": "धार्मिक आणि भाषिक अल्पसंख्याक धर्मांची बहुलता भारताच्या इतिहासाचे प्रतिनिधित्व करते.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "पायाभूत सुविधा",
+      "icon": "fa-cogs",
+      "cardGradient": "linear-gradient(135deg, #ff758c, #dd2476)",
+      "description": "पायाभूत सुविधा एका अर्थव्यवस्थेचे हार्डवेअर म्हणजे रस्ते, रेल्वे, बंदरे, विमानतळ आणि वीज.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "मीडिया",
+      "icon": "fa-camera",
+      "cardGradient": "linear-gradient(135deg, #ff512f, #dd2476)",
+      "description": "मीडिया गेल्या दहा वर्षांत, मीडियाच्या महत्त्वपूर्ण भागांची लूट झाली आहे किंवा त्यांनी आत्मसमर्पण केले आहे.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "उत्तर-पूर्व राज्ये",
+      "icon": "fa-map-pin",
+      "cardGradient": "linear-gradient(135deg, #6a11cb, #2575fc)",
+      "description": "उत्तर-पूर्व राज्ये भारताच्या संघराज्यातील बहुलता आणि प्रतिनिधित्व करतात.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #dc0592, #fad0c4)"
+    },
+    {
+      "title": "कर आणि कर सुधारणा",
+      "icon": "fa-calculator",
+      "cardGradient": "linear-gradient(135deg, #00c3ff, #ffff1c)",
+      "description": "कर आणि कर सुधारणा बीजेपी/एनडीए सरकारच्या गेल्या दहा वर्षांतील कर आकारणी हे एक उदाहरण आहे जे नियंत्रणाबाहेर गेले आहे.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff0923, #fad0c4)"
+    },
+    {
+      "title": "महिला सक्षमीकरण",
+      "icon": "fa-female",
+      "cardGradient": "linear-gradient(135deg, #ff758c, #ff7eb3)",
+      "description": "महिला सक्षमीकरण ऐतिहासिकदृष्ट्या, महिलांना भेदभाव केला गेला आहे आणि त्यांना मोठ्या अडचणीत टाकले गेले आहे.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #99599c, #fad0c4)"
+    },
+    {
+      "title": "ग्रामीण आणि शहरी विकास",
+      "icon": "fa-city",
+      "cardGradient": "linear-gradient(135deg, #11998e, #38ef7d)",
+      "description": "ग्रामीण आणि शहरी विकास भारताच्या समोर दोन वास्तव आहेत (1) की जवळपास 60% लोकसंख्या ग्रामीण भागात राहते.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "क्रीडा",
+      "icon": "fa-football-ball",
+      "cardGradient": "linear-gradient(135deg, #2c3e50, #3498db)",
+      "description": "क्रीडा भारताच्या स्वातंत्र्यानंतरच्या इतिहासात कोणत्याही सरकारने सध्याच्या बीजेपीप्रमाणे क्रीडा राजकारण केले नाही.",
+      "titleGradient": "linear-gradient(135deg, #ff6a00, #ee0979)",
+      "buttonGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)"
+    },
+    {
+      "title": "कला, संस्कृती आणि वारसा",
+      "icon": "fa-paint-brush",
+      "cardGradient": "linear-gradient(135deg, #00c6ff, #0072ff)",
+      "description": "कला, संस्कृती आणि वारसा लोकांची ओळख बनवतात. बीजेपी/एनडीए.",
+      "titleGradient": "linear-gradient(135deg, #eeaa45, #eadc06)",
+      "buttonGradient": "linear-gradient(135deg, #672091, #fad0c4)"
+    },
+    {
+      "title": "बेरोजगारी",
+      "icon": "fa-users-slash",
+      "cardGradient": "linear-gradient(135deg, #ff9a9e, #fad0c4)",
+      "description": "बेरोजगारी नोकरीच्या मागणीला प्रतिसाद देणे हे आजचे सर्वात आव्हानात्मक मुद्दे आहे.",
+      "titleGradient": "linear-gradient(110deg, #572349, #fadc04)",
+      "buttonGradient": "linear-gradient(135deg, #238936, #fad0c4)"
+    },
+    {
+      "title": "शिक्षण",
+      "icon": "fa-chalkboard-teacher",
+      "cardGradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "description": "शिक्षण हा एक सार्वजनिक साधन आहे आणि प्रत्येक विद्यार्थ्याला मोफत, गुणवत्तापूर्ण शिक्षणाचा अधिकार आहे.",
+      "titleGradient": "linear-gradient(135deg, #4397bb, #ee0979)",
+      "buttonGradient": "linear-gradient(120deg, #294756, #cad0c4)"
+    }
+  ]
+}
